@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": {
+                    "rejectUnauthorized": true
+                }
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgresql://neondb_owner:npg_rmcWo15uzkey@ep-shy-cloud-ahy1blnr-pooler.c-3.us-east-1.aws.neon.tech/AmberHasan?sslmode=require&channel_binding=require",
+            "name": "Amber Hasan"
+        }
+    ]
+}
